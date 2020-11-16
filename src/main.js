@@ -1,5 +1,5 @@
 import '@/main.scss'
 
-import { startDrawing } from 'view-webgl/drawer'
+import { startDrawing } from '@view-webgl/drawer'
 
 startDrawing()
